@@ -43,4 +43,4 @@ https://chums-glitch.github.io/Frontend-Mentor/
 
 ## Contact
 📧 ntsakochums@gmail.com
-💼 LinkedIn: [Add your LinkedIn URL]
+💼 LinkedIn:https://www.linkedin.com/in/ntsako-chuma-343592317/
